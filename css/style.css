@@ -1,4 +1,11 @@
-.navbar-brand img{
-	width: 2rem;
-	height: auto;
-}
+body {
+  background: #D13D3D;
+  font-size: 16px; }
+
+.navbar-brand {
+  background: #D13D3D; }
+  .navbar-brand > img {
+    width: 2rem;
+    height: auto; }
+
+/*# sourceMappingURL=style.css.map */

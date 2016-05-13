@@ -1,0 +1,13 @@
+$color-primary: #D13D3D;
+$font-size: 16px;
+body{
+	background: $color-primary;
+	font-size: $font-size;
+}
+.navbar-brand{
+	background: $color-primary;
+	& > img{
+	width: 2rem;
+	height: auto;
+}
+}
